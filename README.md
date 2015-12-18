@@ -1,9 +1,8 @@
 《The Swift Programming Language》in Vietnamese
 =============================================
 
-Bản dịch tiếng Việt từ tài liệu hướng dẫn chính thức từ Apple《The Swift Programming Language》
-
-[Nguồn](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
+Bản dịch tiếng Việt từ tài liệu hướng dẫn chính thức từ Apple
+《The Swift Programming Language》 [Nguồn](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
 
 **Mọi quan tâm, đóng góp xin gửi về: phuong@me.com. 
 Nhóm trên Slack: https://swiftvietnam.slack.com/**
