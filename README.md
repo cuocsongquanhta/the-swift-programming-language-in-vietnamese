@@ -76,7 +76,7 @@ Tham gia cùng chúng tôi, bằng cách:
 - Sửa lỗi cú pháp, văn phạm, thuật ngữ chuyên ngành.
 - Đóng góp ý kiến, đề xuất ý tưởng.
 
-# Quy tắt dịch thuật
+# Quy tắc dịch thuật
 
 Tài liệu được dịch dựa trên quy tắc thống nhất như sau, vui lòng đọc kỹ:
 
