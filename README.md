@@ -25,9 +25,9 @@ Chưa có.
 
 # Tình hình cập nhật Swift 2.1
 
-- About Swift （[phuonglm86](https://github.com/phuonglm86)）
+- About Swift（[phuonglm86](https://github.com/phuonglm86)）
 - A Swift Tour（[phuonglm86](https://github.com/phuonglm86)）
-- The Basics（[?](https://github.com/??)）
+- The Basics（[ducito](https://github.com/ducito)）
 - Basic Operators（[?](https://github.com/??)）
 - Strings and Characters（[?](https://github.com/??)）
 - Collection Types（[?](https://github.com/??)）
@@ -104,3 +104,6 @@ Dưới đây là quy trình để các thành viên bắt đầu:
 4. Commit
 ....
 
+# Thành viên
+1. Lê Phương - [phuonglm86](https://github.com/phuonglm86) - Hà Nội
+2. Nguyễn Ngọc Đức - [ducito](https://github.com/ducito) - Đà Nẵng
