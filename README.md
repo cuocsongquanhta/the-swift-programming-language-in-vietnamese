@@ -103,4 +103,3 @@ Dưới đây là quy trình để các thành viên bắt đầu:
 3. Tiến hành dịch, sửa nội dung.
 4. Commit
 ....
-
