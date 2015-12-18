@@ -2,9 +2,9 @@
 =============================================
 
 Bản dịch tiếng Việt từ tài liệu hướng dẫn chính thức từ Apple
-《The Swift Programming Language》 [Nguồn](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
+《The Swift Programming Language》 [Nguồn.](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
 
-Theo bản quyền CC BY 4.0 [Creative Commons Attribution 4.0 International (CC BY 4.0) License].(https://creativecommons.org/licenses/by/4.0/)
+Theo bản quyền CC BY 4.0 [(Creative Commons Attribution 4.0 International (CC BY 4.0) License)](https://creativecommons.org/licenses/by/4.0/)
 
 **Mọi quan tâm, đóng góp xin gửi về: phuong@me.com. 
 Nhóm trên Slack: https://swiftvietnam.slack.com/**
