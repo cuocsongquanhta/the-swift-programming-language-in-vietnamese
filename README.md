@@ -12,7 +12,9 @@ Nhóm trên Slack: https://swiftvietnam.slack.com/**
 *Chưa phát hành.*
 
 # Tình trạng hiện tại
+
 Swift 2.2: Chưa sãn sàng.
+
 Swift 2.1: Đang cập nhật.
 
 # Tình hình cập nhật Swift 2.2
